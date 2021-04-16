@@ -1,10 +1,10 @@
 # shopping
 
-A new Flutter project.
+My practice series: Flutter Development
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is to create a simple shopping app.
 
 A few resources to get you started if this is your first Flutter project:
 
